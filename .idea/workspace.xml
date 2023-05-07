@@ -9,9 +9,27 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d775ceb2-0201-4b6a-90a7-bf83d46775cd" name="Changes" comment="Reshenie07.05">
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/index.jsp" afterDir="false" />
+    <list default="true" id="d775ceb2-0201-4b6a-90a7-bf83d46775cd" name="Changes" comment="Reshenie07.05 in 12.22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/hello_word.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/alishev/springcourse/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/alishev/springcourse/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/ru/alishev/springcourse/HelloController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/classes/ru/alishev/springcourse/HelloController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/attoparser-2.0.6.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/micrometer-commons-1.10.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/micrometer-observation-1.10.6.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/slf4j-api-2.0.5.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-aop-6.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-beans-6.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-context-6.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-core-6.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-expression-6.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-jcl-6.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-web-6.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/spring-webmvc-6.0.8.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/thymeleaf-3.1.1.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/lib/thymeleaf-spring5-3.1.1.RELEASE.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/spring-mvc-app1/WEB-INF/views/hello_word.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,9 +40,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
         <option value="Jsp File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -70,7 +88,7 @@
       <recent name="C:\Users\79128\IdeaProjects\SpringCourse\springMvcApp1\src\main\webapp" />
     </key>
   </component>
-  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.741">
+  <component name="RunManager" selected="Tomcat Server.Tomcat 9.0.74">
     <configuration name="Tomcat 9.0.74" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.74" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="openjdk-19" nameIsGenerated="true">
       <option name="UPDATING_POLICY" value="restart-server" />
       <deployment>
@@ -272,7 +290,7 @@
       <updated>1683361321732</updated>
       <workItem from="1683361323187" duration="968000" />
       <workItem from="1683362338754" duration="11294000" />
-      <workItem from="1683447779816" duration="2693000" />
+      <workItem from="1683447779816" duration="4900000" />
     </task>
     <task id="LOCAL-00001" summary="Reshenie">
       <created>1683444927276</created>
@@ -288,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1683445004721</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Reshenie07.05 in 12.22">
+      <created>1683451361862</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1683451361862</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -308,7 +333,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Reshenie" />
     <MESSAGE value="Reshenie07.05" />
-    <option name="LAST_COMMIT_MESSAGE" value="Reshenie07.05" />
+    <MESSAGE value="Reshenie07.05 in 12.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Reshenie07.05 in 12.22" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
